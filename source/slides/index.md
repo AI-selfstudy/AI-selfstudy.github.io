@@ -150,7 +150,8 @@ title: 课程时间及讲义
       <td rowspan="4">
         <a href="./6.1 自监督学习L1_v1.pdf">6.1 自监督学习L1_v1.pdf</a><br />
         <a href="./6.2 自监督学习L2_v1.pdf">6.2 自监督学习L2_v1.pdf</a><br />
-        <a href="./6.3 自监督学习L3_v1.pdf">6.3 自监督学习L3_v1.pdf</a>
+        <a href="./6.3 自监督学习L3_v1.pdf">6.3 自监督学习L3_v1.pdf</a><br />
+        <a href="./6.4 自监督学习L4_v1.pdf">6.4 自监督学习L4_v1.pdf</a>
       </td>
     </tr>
     <tr>
