@@ -172,6 +172,7 @@ title: 课程时间及讲义
       <td rowspan="5" align="center">吉建民老师</td>
       <td rowspan="5" align="center">强化学习</td>
       <td rowspan="5">
+        <a href="./7.1 强化学习介绍.pdf">7.1 强化学习介绍.pdf</a><br />
       </td>
     </tr>
     <tr>
