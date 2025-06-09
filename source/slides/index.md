@@ -172,7 +172,9 @@ title: 课程时间及讲义
       <td rowspan="5" align="center">吉建民老师</td>
       <td rowspan="5" align="center">强化学习</td>
       <td rowspan="5">
-        <a href="./7.1 强化学习介绍.pdf">7.1 强化学习介绍.pdf</a><br />
+        <a href="./7.1 强化学习介绍(1).pdf">7.1 强化学习介绍(1).pdf</a><br />
+        <a href="./7.2 马尔可夫决策过程.pdf">7.2 马尔可夫决策过程.pdf</a><br />
+        <a href="./7.3 动态规划算法.pdf">7.3 动态规划算法.pdf</a>
       </td>
     </tr>
     <tr>
