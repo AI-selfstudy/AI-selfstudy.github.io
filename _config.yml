@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 人工智能数学原理与算法
-subtitle: '2025 春季'
-description: '课程主页'
+title: AI-SelfLearning-Site
+subtitle: '一位AI爱好者的自学网站'
+description: 'Courses'
 keywords:
-author: ''
+author: 'WesleyFei'
 language: zh-CN
 timezone: ''
 
